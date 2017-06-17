@@ -28,7 +28,6 @@ DC = 24
 ```
 
 ### How to Use
-Open System Settings - Keyboard - Shortcuts and add your commands
 ```sh
 # Play BadApple.zip
 # sudo python player.py file_path
