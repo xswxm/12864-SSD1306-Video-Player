@@ -1,5 +1,11 @@
 # 12864 SSD1306 Video Player
 It is a python script for playing videos on 12864 over SPI sockets
+
+### Demo
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7MF6DfqhK14
+" target="_blank"><img src="http://img.youtube.com/vi/7MF6DfqhK14/0.jpg" 
+alt="Bad Apple on 12864 with Python and Raspberry Pi " width="480" height="360" border="10" /></a>
+
 ### Modules
 Adafruit_GPIO.SPI
 Adafruit_SSD1306
